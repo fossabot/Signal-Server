@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArisBee%2FSignal-Server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FArisBee%2FSignal-Server?ref=badge_shield)
+
 Signal-Server
 =================
 
@@ -24,3 +26,7 @@ License
 Copyright 2013-2016 Open Whisper Systems
 
 Licensed under the AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArisBee%2FSignal-Server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FArisBee%2FSignal-Server?ref=badge_large)
